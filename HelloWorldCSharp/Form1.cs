@@ -17,5 +17,10 @@ namespace HelloWorldCSharp
             InitializeComponent();
             MessageBox.Show("Hello World!");
         }
+
+        public void SecondHelloWorld()
+        {
+            MessageBox.Show("Hello World!2");
+        }
     }
 }
