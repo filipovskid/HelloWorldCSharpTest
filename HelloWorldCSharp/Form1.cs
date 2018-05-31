@@ -22,5 +22,10 @@ namespace HelloWorldCSharp
         {
             MessageBox.Show("Hello World!2");
         }
-    }
+
+		public void HelloWorldAnton()
+		{
+			MessageBox.Show("Hello Nikola From Anton");
+		}
+	}
 }
